@@ -253,7 +253,6 @@
 		8CB3E10A17F216950090372A /* text.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8CB3DC8017F1DE5D0090372A /* text.cpp */; };
 		8CB3E10B17F2169A0090372A /* video.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8CB3DC8317F1DE5D0090372A /* video.cpp */; };
 		8CB3E10C17F216B60090372A /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8CB3DC9817F1DE5D0090372A /* main.cpp */; };
-		8D5B49B4048680CD000E48DA /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7ADFEA557BF11CA2CBB /* Cocoa.framework */; };
 		94454E3E17852F23006C057B /* OpenEmuBase.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 94454E3D17852F23006C057B /* OpenEmuBase.framework */; };
 		9453E37F1AC5E305004F42AD /* libvorbisenc.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9453E37E1AC5E305004F42AD /* libvorbisenc.a */; };
 		9454E32B19516301005A5CFE /* comm.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9454E32919516301005A5CFE /* comm.cpp */; };
@@ -1752,7 +1751,6 @@
 			files = (
 				9453E37F1AC5E305004F42AD /* libvorbisenc.a in Frameworks */,
 				8305628C1A98C6AD0030F6DB /* libiconv.dylib in Frameworks */,
-				8D5B49B4048680CD000E48DA /* Cocoa.framework in Frameworks */,
 				3DDC761A1BD2D86B002E7674 /* libsndfile_FLAC.a in Frameworks */,
 				3DCDE7191BD2D8FD00392D0D /* libvorbis.a in Frameworks */,
 				8240861B0FFDD64600F0FE7D /* libz.dylib in Frameworks */,
